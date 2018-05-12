@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Louis_Couperus
     - http://nl.wikipedia.org/wiki/Louis_Couperus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37497#The-TourA-Story-of-Ancient-Egypt
 gutenberg_issued: '2011-09-21'
 gutenberg_type: Text
 identifiers:
